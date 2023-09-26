@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """singly-linked defination"""
 
+
 class Node:
     """Node class body."""
 
